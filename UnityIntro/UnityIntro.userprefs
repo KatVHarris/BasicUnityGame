@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\MyScripts\BubbleController.cs" Line="8" Column="1" />
+      <File FileName="Assets\MyScripts\InventoryController.cs" Line="19" Column="27" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\InventoryController.cs" Line="15" Column="54" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\BubbleBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\Collides.cs" Line="1" Column="1" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\ProjectileBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\TestMove.cs" Line="1" Column="1" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\TestMovement.cs" Line="1" Column="1" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\TurretController.cs" Line="1" Column="1" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\Homming.cs" Line="15" Column="15" />
+      <File FileName="..\GitHub\UnityIntro\CarGame\Assets\MyScripts\GameOverManager.cs" Line="9" Column="50" />
+      <File FileName="Assets\MyScripts\GameController.cs" Line="8" Column="2" />
+      <File FileName="Assets\MyScripts\ScoreController.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
